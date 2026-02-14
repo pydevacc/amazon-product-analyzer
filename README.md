@@ -3,7 +3,7 @@
     <img src="https://mintlify.s3.us-west-1.amazonaws.com/brightdata/logo/light.svg" width="300" alt="Bright Data Logo">
   </a>
 
-# 🛍️ Amazon Product Analytics
+# 🛍️ Amazon Product Analytics 1
 Analyze Amazon product data and track market trends with AI-powered insights, interactive visualizations, and reliable data extraction across global marketplaces.
 
 <img src="https://img.shields.io/badge/python-3.9+-blue" />
